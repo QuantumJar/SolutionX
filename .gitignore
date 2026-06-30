@@ -7,15 +7,11 @@ target/
 
 
 ### IntelliJ IDEA ###
-.mvn/
+
 .idea
 *.iws
 *.iml
 *.ipr
-
-mvnw
-mvnw.cmd
-.gitattributes
 
 ### VS Code ###
 .vscode/
