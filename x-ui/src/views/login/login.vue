@@ -1,11 +1,17 @@
 <script setup>
+import { ref } from 'vue'
 
 </script>
 
 <template>
-<h1>login</h1>
+  <div class="">
+
+
+  </div>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
+
+
 
 </style>
